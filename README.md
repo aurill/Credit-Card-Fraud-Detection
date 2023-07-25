@@ -17,4 +17,5 @@ Step 5: Making Predictions
 The final step was to use the chosen model to make predictions on the testing data and create a new DataFrame with the predicted labels. I then saved this DataFrame as a CSV file.
 
 Summary
+
 In closing, this project showed the power and potential of AI in providing practical solutions to pressing issues in digital finance, such as credit card fraud. By using different machine learning algorithms and data analysis techniques, I was able to develop a highly effective model for predicting fraudulent transactions.
